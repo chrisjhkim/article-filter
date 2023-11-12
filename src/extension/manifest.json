@@ -21,7 +21,7 @@
     },
     "default_popup": "popup.html"
   },
-  "permissions": ["scripting", "activeTab", "tabGroups"],
+  "permissions": ["scripting", "activeTab", "tabGroups", "storage"],
   "host_permissions": [
     "https://developer.chrome.com/*"
   ],
